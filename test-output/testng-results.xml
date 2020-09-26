@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Opened Application]]>
+    </line>
+    <line>
+      <![CDATA[Title not matched and expected title is OrangeHRM - New Level of HR Management]]>
+    </line>
+    <line>
+      <![CDATA[Logout Completed]]>
+    </line>
+    <line>
+      <![CDATA[Closed Application]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22107" started-at="2020-01-08T05:26:59Z" finished-at="2020-01-08T05:27:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22107" started-at="2020-01-08T05:26:59Z" finished-at="2020-01-08T05:27:21Z">
+      <class name="com.hrms.testscript.TC_002">
+        <test-method status="PASS" signature="tc_002()[pri:0, instance:com.hrms.testscript.TC_002@29444d75]" name="tc_002" duration-ms="22078" started-at="2020-01-08T10:56:59Z" finished-at="2020-01-08T10:57:21Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Opened Application]]>
+            </line>
+            <line>
+              <![CDATA[Title not matched and expected title is OrangeHRM - New Level of HR Management]]>
+            </line>
+            <line>
+              <![CDATA[Logout Completed]]>
+            </line>
+            <line>
+              <![CDATA[Closed Application]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc_002 -->
+      </class> <!-- com.hrms.testscript.TC_002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
